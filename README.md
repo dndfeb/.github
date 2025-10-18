@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://designndev.com/banner.png" alt="Design n Dev Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/dndfeb/assets/main/Full%20Stack%20Website%20Dev%20banner%20images.png" alt="Design n Dev Banner" width="100%" />
 </p>
 
 <h1 align="center">✨ Welcome to <span style="color:#3B82F6;">Design n Dev</span> 👋</h1>
