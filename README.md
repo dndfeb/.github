@@ -65,7 +65,7 @@ Our mission is simple — combine **clean design**, **scalable code**, and **str
 
 ## 🌐 Visit Us
 👉 [**designndev.com**](https://designndev.com)  
-📩 **info@designndev.com**
+📩 **hello@designndev.com**
 
 <p align="center">
   <i>Building experiences that convert — crafting designs that inspire.</i>
